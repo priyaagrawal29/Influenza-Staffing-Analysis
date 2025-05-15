@@ -8,9 +8,9 @@ This project involves an in-depth analysis of population data, influenza deaths 
 - Assess data limitations that may prevent you from conducting your desired analyses.
 ## Data
 Datasets used for this project:
-- [Influenza deaths by geography from CDC] (https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
-- [Population data by geography, time, age, and gender by US Census Bureau] (https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
-- [Influenza visits data from CDC (Fluview)] (https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx)
+- [Influenza deaths by geography from CDC](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
+- [Population data by geography, time, age, and gender by US Census Bureau](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
+- [Influenza visits data from CDC (Fluview)](https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx)
 ### Influenza Deaths by Geography Dataset
 This dataset includes the number of deaths due to influenza by age group for every month of each year from 2009-2017 for each US state. Some of the death counts are suppressed for privacy reasons, and due to this, some influenza deaths data is missing. This dataset is from the Center for Disease Control (CDC) and the data was collected through the US government's vital statistics program.
 ### Population Data by Geography, Time, Age, and Gender Dataset
@@ -64,4 +64,4 @@ To determine whether influenza occurs seasonally or throughout the year, I analy
 ## Visualizations
 View visualizations generated for this project here: [Visualizations on Tableau Public](https://public.tableau.com/app/profile/priya.agrawal4103/viz/Book9_17333702165620/InfluenzaStaffingRequirements)
 ## Contact
-If you would like more details about the project, or if you have any questions, please feel free to contact me through LinkedIn or [email](mailto:priya.agrawal0929@gmail.com).
+If you would like more details about the project, or if you have any questions, please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/priya-agrawal-0929) or [email](mailto:priya.agrawal0929@gmail.com).
